@@ -1,0 +1,1 @@
+Created a EPOS System for a Retail business. The EPOS System used here is for a Shoe Store. 75 Items are sold in the Shoe Store and the Values are stored in a 2D Array Text File and then the Values are Read. The System helps in improving the business and also the business decisions
