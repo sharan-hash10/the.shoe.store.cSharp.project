@@ -1,0 +1,11 @@
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\bin\Debug\SharanPranav_BAP_Assignment4.exe.config
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\bin\Debug\SharanPranav_BAP_Assignment4.exe
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\bin\Debug\SharanPranav_BAP_Assignment4.pdb
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.Form1.resources
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.Properties.Resources.resources
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.csproj.GenerateResource.cache
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.exe
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.pdb
+C:\Users\shara\OneDrive\Desktop\SharanPranav_BAP_Assignment4\SharanPranav_BAP_Assignment4\obj\Debug\SharanPranav_BAP_Assignment4.SalesReportForm.resources
